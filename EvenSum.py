@@ -11,3 +11,4 @@ def even_sum():
                          max = num
     print("even sum =",sum)
     print("even max =", max)
+even_sum()
